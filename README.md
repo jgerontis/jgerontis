@@ -1,5 +1,5 @@
 - Hi, I’m Josh Gerontis, a programmer based in Southern Utah.
-- I'm currently a Software Engineer Intern at Vasion.
+- I'm currently a Software Engineer at Vasion.
 - Thanks for checking out my page!
 
 <!---
