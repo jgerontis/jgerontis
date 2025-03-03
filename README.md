@@ -1,4 +1,4 @@
-- Hi, I’m Josh Gerontis, a programmer based in Southern Utah.
+- Hi, I’m Josh Gerontis, a software engineer based in Las Vegas.
 - I'm currently a Software Engineer at Vasion.
 - Thanks for checking out my page!
 
